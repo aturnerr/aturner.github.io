@@ -18,16 +18,14 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Shift your notifications up or down.</description>
 			<image>mnss1.jpg</image>
 		</screenshot>
 		<screenshot>
-			<description>Change value in settings.</description>
 			<image>mnss2.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>- Initial Release</change>
+		<change>Initial Release</change>
 	</changelog>
 	<links>
 		<link>
