@@ -1,9 +1,8 @@
-Origin: Adam's repo
-Label: Adam's repo
+Origin: Adam's repository
+Label: Adam's repository
 Suite: stable
 Version: 1.0
-Codename: aturner
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Adam's repo
-MD5Sum:
+Description: Adam's repository
