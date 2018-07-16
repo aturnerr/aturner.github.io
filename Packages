@@ -1,0 +1,14 @@
+Package: MoveNotifications
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: aturner_ <aturnerr2@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.aturner.movenotifications.deb
+Size: 23770
+MD5sum: 90197e13bf38892654781ce12210612c
+SHA1: 8233114bbf4a5701b582f8e817278a85656a5745
+SHA256: 66b1867df4ddb4302a6b43b406f13ad745a70b8b82f341138ac4e1eb4d67a290
+Section: Tweaks
+Description: Adjust the offset of LockScreen notifications!
+Author: aturner_ <aturnerr2@gmail.com>
+Name: MoveNotifications
